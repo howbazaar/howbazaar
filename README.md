@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=howbazaar&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=howbazaar&langs_count=5&theme=tokyonight)]()
+- 🔭 I’m currently working on [Stacklet](https://stacklet.io) Platform
+- 💬 Ask me about Go or Python
+- 😄 Pronouns: he/him
 
 <!--
 **howbazaar/howbazaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
